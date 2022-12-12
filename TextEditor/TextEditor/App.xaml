@@ -1,0 +1,14 @@
+﻿<Application x:Class="TextEditor.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:TextEditor"
+             StartupUri="JuventusSquad.xaml">
+    <Application.Resources>
+        <ResourceDictionary>
+            <BitmapImage x:Key="slikebez" UriSource="slike\nemaslike.jpg"></BitmapImage>
+            <BitmapImage x:Key="flag3" UriSource="slike\flags3.jpg"></BitmapImage>
+            <BitmapImage x:Key="front" UriSource="slike\back4.jpg"></BitmapImage>
+            <BitmapImage x:Key="squad" UriSource="slike\squad.jpg"></BitmapImage>
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>

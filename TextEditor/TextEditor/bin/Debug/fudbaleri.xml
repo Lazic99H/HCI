@@ -1,0 +1,87 @@
+<?xml version="1.0"?>
+<ArrayOfFootballPlayer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <FootballPlayer>
+    <Number>7</Number>
+    <Name>Cristiano Ronaldo</Name>
+    <DateOfBirth>1985-02-05T00:00:00</DateOfBirth>
+    <PicturePath>file:///C:/Users/ziće/Desktop/TextEditor/cr7.png</PicturePath>
+    <Text>rtf_file132518588355241544.rtf</Text>
+  </FootballPlayer>
+  <FootballPlayer>
+    <Number>10</Number>
+    <Name>Paulo Dybala</Name>
+    <DateOfBirth>1993-11-15T00:00:00</DateOfBirth>
+    <PicturePath>file:///C:/Users/ziće/Desktop/TextEditor/dybala.png</PicturePath>
+    <Text>rtf_file132518589859762095.rtf</Text>
+  </FootballPlayer>
+  <FootballPlayer>
+    <Number>9</Number>
+    <Name>Álvaro Morata</Name>
+    <DateOfBirth>1992-10-23T00:00:00</DateOfBirth>
+    <PicturePath>file:///C:/Users/ziće/Desktop/TextEditor/morata.png</PicturePath>
+    <Text>rtf_file132518590829325512.rtf</Text>
+  </FootballPlayer>
+  <FootballPlayer>
+    <Number>11</Number>
+    <Name>Douglas Costa</Name>
+    <DateOfBirth>1990-09-14T00:00:00</DateOfBirth>
+    <PicturePath>file:///C:/Users/ziće/Desktop/TextEditor/costa.png</PicturePath>
+    <Text>rtf_file132518591700056205.rtf</Text>
+  </FootballPlayer>
+  <FootballPlayer>
+    <Number>6</Number>
+    <Name>Sami Khedira</Name>
+    <DateOfBirth>1987-04-04T00:00:00</DateOfBirth>
+    <PicturePath>file:///C:/Users/ziće/Desktop/TextEditor/kedira.png</PicturePath>
+    <Text>rtf_file132518592281796111.rtf</Text>
+  </FootballPlayer>
+  <FootballPlayer>
+    <Number>8</Number>
+    <Name>Aaron Ramsey</Name>
+    <DateOfBirth>1990-12-26T00:00:00</DateOfBirth>
+    <PicturePath>file:///C:/Users/ziće/Desktop/TextEditor/Remzi.png</PicturePath>
+    <Text>rtf_file132518593025433276.rtf</Text>
+  </FootballPlayer>
+  <FootballPlayer>
+    <Number>19</Number>
+    <Name>Leonardo Bonucci</Name>
+    <DateOfBirth>1987-05-01T00:00:00</DateOfBirth>
+    <PicturePath>file:///C:/Users/ziće/Desktop/TextEditor/bonuci.png</PicturePath>
+    <Text>rtf_file132518593760604811.rtf</Text>
+  </FootballPlayer>
+  <FootballPlayer>
+    <Number>3</Number>
+    <Name>Giorgio Chiellini</Name>
+    <DateOfBirth>1984-08-14T00:00:00</DateOfBirth>
+    <PicturePath>file:///C:/Users/ziće/Desktop/TextEditor/chelini.jpg</PicturePath>
+    <Text>rtf_file132518594539324865.rtf</Text>
+  </FootballPlayer>
+  <FootballPlayer>
+    <Number>25</Number>
+    <Name>Adrien Rabiot</Name>
+    <DateOfBirth>1995-04-03T00:00:00</DateOfBirth>
+    <PicturePath>file:///C:/Users/ziće/Desktop/TextEditor/rabiot.png</PicturePath>
+    <Text>rtf_file132518595221219603.rtf</Text>
+  </FootballPlayer>
+  <FootballPlayer>
+    <Number>4</Number>
+    <Name>Matthijs de Ligt</Name>
+    <DateOfBirth>1984-08-14T00:00:00</DateOfBirth>
+    <PicturePath>file:///C:/Users/ziće/Desktop/TextEditor/light.png</PicturePath>
+    <Text>rtf_file132518597005786021.rtf</Text>
+  </FootballPlayer>
+  <FootballPlayer>
+    <Number>1</Number>
+    <Name>Wojciech Szczęsny</Name>
+    <DateOfBirth>1990-04-18T00:00:00</DateOfBirth>
+    <PicturePath>file:///C:/Users/ziće/Desktop/TextEditor/gkwz.png</PicturePath>
+    <Text>rtf_file132518597449716484.rtf</Text>
+  </FootballPlayer>
+  <FootballPlayer>
+    <Number>77</Number>
+    <Name>Gianluigi Buffon</Name>
+    <DateOfBirth>1978-01-28T00:00:00</DateOfBirth>
+    <PicturePath>file:///C:/Users/ziće/Desktop/TextEditor/bufon.png</PicturePath>
+    <Text>rtf_file132518598061374849.rtf</Text>
+  </FootballPlayer>
+</ArrayOfFootballPlayer>

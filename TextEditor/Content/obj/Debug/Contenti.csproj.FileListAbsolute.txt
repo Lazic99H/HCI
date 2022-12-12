@@ -1,0 +1,5 @@
+C:\Users\ziće\Desktop\TextEditor\Content\bin\Debug\Content.dll
+C:\Users\ziće\Desktop\TextEditor\Content\bin\Debug\Content.pdb
+C:\Users\ziće\Desktop\TextEditor\Content\obj\Debug\Content.dll
+C:\Users\ziće\Desktop\TextEditor\Content\obj\Debug\Content.pdb
+C:\Users\ziće\Desktop\TextEditor\Content\obj\Debug\Contenti.csprojResolveAssemblyReference.cache
